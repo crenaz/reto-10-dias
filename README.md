@@ -1,4 +1,3 @@
-#### Lang=ES: 
 ### Una plantilla Sencilla
 
 Este es mi plantilla para enviar correos desde MailChimp *en nombre del* proyecto llamado [Discovery to Success](http://discoverytosuccess.com).
